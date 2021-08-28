@@ -22,7 +22,7 @@ body{
 
 .question{
     text-align: center;
-    font-size: 2rem;
+    font-size: 1rem;
     color: white;
 }
 
@@ -47,7 +47,7 @@ body{
 }
 
 .response{
-    width: 100px;
+    width: 2em;
     padding: 10px 20px;
     text-decoration: none;
     margin: 10px 10px;
